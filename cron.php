@@ -59,9 +59,9 @@ foreach ($lvs as $lvl) {
 		}
 	}
 	$echo .= '</div>';
-	$echo .= '<div id="currentchromeversion" onclick="ischromelatest()" />';
+	$echo .= '<div id="currentchromeversion" />';
 
-	$echo .= '<script type="text/javascript" src="/wp-content/plugins/latestchrome/versioncheck.php"></script>';
+	$echo .= '<script type="text/javascript" src="/wp-content/plugins/latest-chrome/versioncheck.php"></script>';
 
 $fp = fopen('chromeversioninline.html', 'w');
 fwrite($fp, $echo);

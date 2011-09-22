@@ -40,7 +40,7 @@ if ($_SERVER['HTTP_USER_AGENT']) {
 	$ua = str_replace('Chromium','Chrome',$_SERVER['HTTP_USER_AGENT']);
 	$uv = trim(substr(strstr($ua,'Chrome/'), 7, 
 		strpos(strstr($ua,'Chrome/'), ' ') - 7));
-	$echo .= 'Currently installed version is: ';
+	$echo .= 'Your Chrome version is: ';
 	$echo .= (strstr($ua,'Chrome/')) ? $uv : 'Are you using Chrome?';
 	$os = get_os($ua);
 	$osname = osname($os);

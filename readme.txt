@@ -36,3 +36,8 @@ Checks for Chrome browsers are based on official data, while only the branch num
 
 = 0.0.1 =
 * Initial release.
+
+== Upgrade Notice ==
+
+= 0.0.1 =
+* Fixed a typo during the script call.
