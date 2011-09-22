@@ -1,14 +1,14 @@
 <?php
 /**
  * @package LatestChrome
- * @version 0.0.1
+ * @version 0.0.2
  */
 /*
 Plugin Name: Latest Chrome
 Plugin URI: http://wordpress.org/extend/plugins/latest-chrome/
 Description: A gadget including the latest Chrome downloads and a script to check if the visitor is using a latest version.
 Author: Dean Lee
-Version: 0.0.1
+Version: 0.0.2
 Author URI: http://lidian.info/
 */
 

@@ -34,10 +34,13 @@ Checks for Chrome browsers are based on official data, while only the branch num
 
 == Changelog ==
 
+= 0.0.2 =
+* Fixed a typo during the script call.
+
 = 0.0.1 =
 * Initial release.
 
 == Upgrade Notice ==
 
-= 0.0.1 =
-* Fixed a typo during the script call.
+= 0.0.2 =
+* The public 0.0.1 just won't work. Sorry.
