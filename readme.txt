@@ -1,16 +1,16 @@
 === Plugin Name ===
 Contributors: xslidian
 Donate link: http://lidian.info/
-Tags: Chrome, gadget
+Tags: Chrome, widget, sidebar widget
 Requires at least: 2.0.2
 Tested up to: 3.2.1
 Stable tag: trunk
 
-A gadget including the latest Chrome downloads and a script to check if the visitor is using a latest version.
+A widget including the latest Chrome downloads and a script to check if the visitor is using a latest version.
 
 == Description ==
 
-This gadget will show the latest version numbers of most branches of Google Chrome.
+This sidebar widget will show the latest version numbers of most branches of Google Chrome.
 
 There is also a tip telling if the user is using one of the latest versions of Chrome / Chromium.
 
